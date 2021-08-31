@@ -53,10 +53,43 @@ font-weight: 500;}
     font-size: 0.75rem;
 }
 
+.article-highlight{
+    background-color: yellow;
+}
+
+
+
 
 
 /* Images */
 .images{margin-top:1rem;
 margin-bottom: 0rem;}
+
+
+/* article list */
+.article-list{
+    margin: 3rem 0 2rem;
+}
+
+
+
+/* Table */
+.article-table{
+    width: 80%;
+    border-spacing: 0;
+    text-align: left;
+}
+
+.head-row{
+    color: white;
+    background-color: #20a9e5;
+}
+.color-row{
+    background-color: #b1e5f2;
+}
+
+.short-cell{
+    width:20%;
+}
 
 
