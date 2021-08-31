@@ -1,0 +1,174 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;}
+
+
+/* HEADER */
+
+header{
+    
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+    background-size:360px;
+    padding-top:5rem ;
+    
+}
+
+.logo{width: 15%;
+}
+
+#id_main{padding:1rem;
+padding-top: 1.5rem;
+width:80%;
+margin:auto;}
+
+
+/* HEADER */
+
+
+
+
+
+
+
+/* TIPOGRAPHY */
+
+
+
+h1,h2,h4{font-family: 'Playfair Display', serif;}
+
+
+
+.title{
+    font-size: 3.2rem;
+    margin: 0rem;
+    margin-top: 3rem;
+    font-weight: 900;
+}
+
+.article-info{
+    color:hsl(0deg 0% 56%);
+    font-weight: 700;
+}
+
+.author, .data {
+    margin: 0rem;
+}
+
+.data{font-size:0.80rem ;
+font-weight: 500;}
+
+.color-accent{
+    color: #4ea0ff;
+    font-weight: 800;
+}
+
+.photo-credit{
+    margin:0;
+    font-size: 0.70rem;
+}
+
+.article-highlight{
+    background-color: yellow;
+}
+
+.article{
+    line-height: 1.5rem;
+    letter-spacing: 1.5px;
+    margin-top:2.5rem;
+}
+
+/* TIPOGRAPHY */
+
+
+
+
+
+
+/* Images */
+
+.article-images{margin-top:2.5rem;
+margin-bottom: 0rem;}
+
+/* Images */
+
+
+
+
+
+
+
+/* article list */
+.article-list{
+    margin: 4rem 0 3rem;
+}
+
+/* article list */
+
+
+
+
+
+
+
+/* Table */
+
+
+.article-table{
+    width: 100%;
+    border-spacing: 0;
+    text-align: left;
+    margin: 4rem 0 3rem;
+
+}
+
+.head-row{
+    color: white;
+    background-color: #20a9e5;
+}
+.color-row{
+    background-color: #b1e5f2;
+}
+
+.short-cell{
+    width:25%;
+}
+/* Table */
+
+
+
+
+
+
+/* See also */
+
+
+.see-also{
+    color:#999999 ;
+    
+}
+.see-also-articles{
+    color: white;
+    
+    
+}
+
+.see-also-first-article{
+    background-image: url("../img/monitor.jpg");
+
+}
+
+.see-also-second-article{
+    background-image: url("../img/graph.jpg");
+}
+
+.see-also-first-article, .see-also-second-article{
+    height: 150px;
+    max-width: 200px;
+    background-repeat: no-repeat;
+    background-size:cover ;
+    background-position: center;
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+    
+}
