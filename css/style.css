@@ -21,6 +21,12 @@ header{
 padding-top: 1.5rem;}
 
 
+/* HEADER */
+
+
+
+
+
 
 
 /* TIPOGRAPHY */
@@ -58,12 +64,24 @@ font-weight: 500;}
 }
 
 
+/* TIPOGRAPHY */
+
+
+
 
 
 
 /* Images */
-.images{margin-top:1rem;
+
+.article-images{margin-top:1rem;
 margin-bottom: 0rem;}
+
+/* Images */
+
+
+
+
+
 
 
 /* article list */
@@ -71,9 +89,17 @@ margin-bottom: 0rem;}
     margin: 3rem 0 2rem;
 }
 
+/* article list */
+
+
+
+
+
 
 
 /* Table */
+
+
 .article-table{
     width: 100%;
     border-spacing: 0;
@@ -91,6 +117,14 @@ margin-bottom: 0rem;}
 .short-cell{
     width:25%;
 }
+/* Table */
+
+
+
+
+
+
+/* See also */
 
 
 .see-also{
