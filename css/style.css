@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    font-size: 1rem;
+}
+
+header{
+    
+    background-color: #4ea0ff;
+    background-image: url("../img/pattern.png");
+    background-size:360px;
+    padding-top:2rem ;
+    
+}
+
+.logo{width: 15%;}
